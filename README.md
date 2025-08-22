@@ -8,8 +8,6 @@ I don’t “just code.”
 
 I architect, implement, and refine systems that solve real problems — from AI-driven analytics to secure, scalable backend infrastructure.
 
-My work blends \*\*computer science fundamentals\*\*, \*\*cutting-edge AI\*\*, and a ruthless focus on clarity, performance, and maintainability.
-
 \*\*Languages:\*\* Python, C++, JavaScript (TypeScript)
 
 \*\*AI/ML:\*\* PyTorch, TensorFlow, scikit-learn, HuggingFace

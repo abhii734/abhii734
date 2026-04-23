@@ -1,4 +1,5 @@
-<img width="500" height="281" alt="from software sekiro GIF" src="https://github.com/user-attachments/assets/52a643f2-4703-47f0-8294-0ccee01e7b0e" />   https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR1dWRweGN4cHB2bnJwYTdjZG0xdnBnYXI5N3htamJvc2picWtxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y8bAdBxtKREVcuDNyH/giphy.gif
+<img width="500" height="281" alt="from software sekiro GIF" src="https://github.com/user-attachments/assets/52a643f2-4703-47f0-8294-0ccee01e7b0e" />   <img width="480" height="270" alt="Dark Souls GIF" src="https://github.com/user-attachments/assets/1dc879a6-bb5e-4c9e-8dda-c3d14b7299a4" />
+
 
 #  About Me:
 I'm based in Kolkata | Durgapur<br>You can contact me at visabhimanyusengupta@gmail.com<br>I'm looking to collaborate on Full-Stack Development | Open-Source Contribution | 3D Web Experiences | Real World Solving Problems

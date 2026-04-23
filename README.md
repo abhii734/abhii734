@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm based in Kolkata | Durgapur<br>You can contact me at visabhimanyusengupta@gmail.com<br>I'm looking to collaborate on Full-Stack Development | Open-Source Contribution | 3D Web Experiences | Real World Solving Problems
 
 

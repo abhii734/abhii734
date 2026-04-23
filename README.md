@@ -1,4 +1,4 @@
-<img width="500" height="281" alt="from software sekiro GIF" src="https://github.com/user-attachments/assets/52a643f2-4703-47f0-8294-0ccee01e7b0e" />   <img width="480" height="270" alt="Dark Souls GIF" src="https://github.com/user-attachments/assets/1dc879a6-bb5e-4c9e-8dda-c3d14b7299a4" />
+<img width="500" height="281" alt="from software sekiro GIF" src="https://github.com/user-attachments/assets/52a643f2-4703-47f0-8294-0ccee01e7b0e" />   
 
 
 #  About Me:

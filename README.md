@@ -1,5 +1,4 @@
-<img width="500" height="281" alt="from software sekiro GIF" src="https://github.com/user-attachments/assets/52a643f2-4703-47f0-8294-0ccee01e7b0e" />  ![584368780-ca8fbc7e-9059-47ed-9e9d-af7c92a3e0a6](https://github.com/user-attachments/assets/ee9c5816-fd94-49d1-8b42-f4e9d666c03a)
-
+<img width="500" height="281" alt="from software sekiro GIF" src="https://github.com/user-attachments/assets/52a643f2-4703-47f0-8294-0ccee01e7b0e" />  
 
 
 

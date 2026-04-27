@@ -1,4 +1,4 @@
-<img width="400" height="281" alt="from software sekiro GIF" src="https://github.com/user-attachments/assets/52a643f2-4703-47f0-8294-0ccee01e7b0e" />  <img width="385" height="281" alt="Magic Take It GIF by Xbox" src="https://github.com/user-attachments/assets/d0627f3b-da7b-4d53-a36a-1a6ab540ba75" />
+<img width="440" height="281" alt="from software sekiro GIF" src="https://github.com/user-attachments/assets/52a643f2-4703-47f0-8294-0ccee01e7b0e" />  <img width="385" height="281" alt="Magic Take It GIF by Xbox" src="https://github.com/user-attachments/assets/d0627f3b-da7b-4d53-a36a-1a6ab540ba75" />
 
 
 

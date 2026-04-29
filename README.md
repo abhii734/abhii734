@@ -17,7 +17,7 @@ I'm based in Kolkata | Durgapur<br>You can contact me at visabhimanyusengupta@gm
 ![](https://streak-stats.demolab.com/?user=abhii734&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhii734&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhii734&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
